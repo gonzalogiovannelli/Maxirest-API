@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Usage  
 ```bash  
-python Datos_historicos_API_Oceanside.py  
+python maxirest_API_connection.py  
 ```  
 
 ## Extracted Tables  
